@@ -35,7 +35,7 @@ Reactive forms belongs to a different `NgModule` called `ReactiveFormsModule`,
 so in order to access any reactive forms directives, you have to import
 `ReactiveFormsModule` from the `@angular/forms` library.
 
-Bootstrap the `AppModule` in `main.ts`.
+Bootstrap the `AppModule` in `app.module.ts`.
 
 
 <code-tabs>
